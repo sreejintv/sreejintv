@@ -9,17 +9,20 @@ I enjoy solving complex engineering problems, improving application performance,
 ### 🚀 Technical Skills
 
 - **Mobile Development:** React Native, Android, iOS, Flutter
+- **Android Development:** Kotlin, Java, Android SDK, Jetpack libraries, Jetpack Compose, Coroutines/Flow, Hilt/Dagger, Room, or Retrofit, Kotlin Multi-Platform(KMP), Compose Multi-Platform
 - **Languages:** TypeScript, JavaScript, Java, Kotlin, Dart, Swift
 - **Architecture:** Clean Architecture, Modular Design, Repository Pattern, MVVM, Viper
 - **State Management:** Redux Toolkit, Zustand, TenStack, Provider, Bloc
 - **APIs & Integration:** REST APIs, JSON, Payment Gateway Integrations
-- **Tools & Platforms:** Git, GitHub, Firebase, Postman, Optics, Sentry
+- **Tools & Platforms:** Android Studio,Visual Studio, Xcode, Git, GitHub, Firebase, Postman, Optics, Sentry
 - **Engineering Practices:** Performance Optimization, Code Reviews, Unit Testing, CI/CD
 
 ### 💡 Areas of Interest
 
-- Cross-platform mobile application development
-- Native Android and iOS integrations
+- Native Android development with modern Kotlin and Jetpack
+- Mobile application architecture and scalability
+- App performance, stability, and security
+- Cross-platform and native iOS development
 - Mobile application architecture and scalability
 - AI-assisted development and Model Context Protocol (MCP)
 - Developer productivity and automation
