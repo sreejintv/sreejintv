@@ -9,11 +9,11 @@ I enjoy solving complex engineering problems, improving application performance,
 ### 🚀 Technical Skills
 
 - **Mobile Development:** React Native, Android, iOS, Flutter
-- **Languages:** TypeScript, JavaScript, Java, Kotlin, Dart
-- **Architecture:** Clean Architecture, Modular Design, Repository Pattern
+- **Languages:** TypeScript, JavaScript, Java, Kotlin, Dart, Swift
+- **Architecture:** Clean Architecture, Modular Design, Repository Pattern, MVVM, Viper
 - **State Management:** Redux Toolkit, Zustand, TenStack, Provider, Bloc
 - **APIs & Integration:** REST APIs, JSON, Payment Gateway Integrations
-- **Tools & Platforms:** Git, GitHub, Firebase, Postman
+- **Tools & Platforms:** Git, GitHub, Firebase, Postman, Optics, Sentry
 - **Engineering Practices:** Performance Optimization, Code Reviews, Unit Testing, CI/CD
 
 ### 💡 Areas of Interest
